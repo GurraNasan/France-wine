@@ -5,7 +5,7 @@ The France wine site is for the public to learn and get information about France
 Users of the website will find information about the six biggest wine regions in France. It will be information about what kind a wine you can find and
 what kind of grapes and manufacturing process that is allowed in the diffrent regions. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup]
 
 ## Features 
 
