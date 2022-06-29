@@ -1,3 +1,14 @@
-p{
-    color:red;
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,500&display=swap');
+
+body {
+	font-family: 'Lora', Arial, sans-serif;
+	margin: 0;
+	background-color: #e6f7ee;
+}
+
+.page-header{
+    background: url(../media/headeralsace.jpg) center 75% / cover no-repeat;
+    text-align: center;
+    font; 100%, ;
+    
 }
