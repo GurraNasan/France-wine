@@ -3,12 +3,14 @@
 body {
 	font-family: 'Lora', Arial, sans-serif;
 	margin: 0;
-	background-color: #e6f7ee;
+	background-color: #d1fde6;
 }
 
 .page-header{
-    background: url(../media/headeralsace.jpg) center 75% / cover no-repeat;
-    text-align: center;
-    font; 100%, ;
+    background: url(../media/sunsetvines.jpg) center 55% /cover no-repeat;
+    background-color: #556B2F;
+    text-align: left;
+    color: #e6f7ee ;
+    height: 150px;
     
 }
