@@ -1,16 +1,57 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,500&display=swap');
 
-body {
-	font-family: 'Lora', Arial, sans-serif;
-	margin: 0;
-	background-color: #d1fde6;
+*{
+    padding: 0;
+    margin: 0;
+    border:none;
 }
 
+body {
+	font-family: 'Lora', Arial, sans-serif;
+	background-color: #d8f5e5;
+}
+/* Header image and style */
 .page-header{
     background: url(../media/sunsetvines.jpg) center 55% /cover no-repeat;
     background-color: #556B2F;
     text-align: left;
     color: #e6f7ee ;
     height: 150px;
+}
+
+.page-header h1 {
+    font-size: 300%;
+}
+
+/*Nav menu */
+.nav{
     
+    background-color: #32251b;
+    height: 50px;
+    width: 100%;
+    
+}
+.nav-menu{
+    margin: 0 23%;
+}
+.nav-menu li {
+    float: left;
+    list-style-type: none;
+    font-size: 110%;
+    margin-right:30px;
+    padding: 0;
+
+}
+.nav-menu a {
+    text-decoration: none;
+    color: #e6f7ee;
+    display: block;
+}
+
+.nav-menu a:hover {
+    background-color: #d8f5e5;
+    color: #32251b;
+}
+.active {
+    border-bottom: 3px solid #556B2F;
 }
