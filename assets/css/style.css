@@ -32,14 +32,13 @@ body {
     
 }
 .nav-menu{
-    margin: 0 23%;
+    margin: 0 25%;
 }
 .nav-menu li {
     float: left;
     list-style-type: none;
     font-size: 110%;
-    margin-right:30px;
-    padding: 0;
+    margin-right:10px;
 
 }
 .nav-menu a {
@@ -54,4 +53,19 @@ body {
 }
 .active {
     border-bottom: 3px solid #556B2F;
+}
+
+/* Style and order for the main content */
+
+.fact-box div {
+    float: left;
+    width: 33%;
+    margin: 3px;
+    box-sizing: border-box;
+}
+
+.speed-fact {
+    border: #32251b solid 2px;
+    text-align: center;
+    
 }
